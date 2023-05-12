@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about Shopify store setup and migration.
 - 📫 How to reach me: andreas.asen1@gmx.at
-- 😄 Pronouns: he/him
